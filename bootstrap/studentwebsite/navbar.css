@@ -1,0 +1,29 @@
+.custom-nav {
+  background-color: #003366;
+
+}
+.bg-custom {
+  background-color: #003366;
+  color: white;
+}
+
+.custom-nav .navbar-brand {
+  color: white;
+}
+.custom-nav .collapse a{
+  color: white;
+}
+a {
+  text-decoration: none;
+}
+
+.custom-nav .dropdown-item:hover {
+
+  background-color: rgba(255,255,255, 0.3);
+}
+.custom-nav .dropdown-item a {
+    display: block;
+}
+.card {
+  overflow-x: hidden;
+}
